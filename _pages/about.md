@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About - Maher Khan"
+title: "About me - Maher Khan"
 author_profile: true
 redirect_from: 
   - /about/
