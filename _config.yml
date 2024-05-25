@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Maher Khan, PhD"
   pronouns         : # example: "she/her"  
-  bio              : "Computer Scientist"
+  bio              : "Computer Scientist specializing in distributed systems, fault/intrusion tolerance, privacy, consistency, and availability."
   location         : "Pittsburgh, PA, USA"
   employer         : "University of Pittsburgh"
   uri              : # URL
