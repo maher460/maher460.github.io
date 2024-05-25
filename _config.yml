@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Maher Khan"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Maher Khan"
 description              : &description "personal description"
 url                      : https://maher460.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,13 +22,13 @@ repository               : "maher460/maher460.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Maher Khan, PhD"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Computer Scientist"
+  location         : "Pittsburgh, PA, USA"
+  employer         : "University of Pittsburgh"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "maherkhan@pitt.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
